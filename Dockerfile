@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKER_CREDENTIALS_ID = 'docker_hub_credentials_id' // Your Docker Hub credentials ID
-        DOCKER_IMAGE_NAME = 'anurag3028/ise3' // Docker image name
+        DOCKER_IMAGE_NAME = 'anurag3028/ise_3' // Docker image name
     }
 
     stages {
